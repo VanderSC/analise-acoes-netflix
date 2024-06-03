@@ -134,3 +134,5 @@ O gráfico de volume de negociação de ações da Netflix fornece uma visão ge
 É interessante observar esses picos no volume de negociação das ações da Netflix nos anos de 2011 e 2012, podem ter sido impulsionados pelo aumento da popularidade da Netflix como plataforma de streaming de vídeo.
 
 Embora estejamos apenas na metade de 2024, o volume de negociação das ações da Netflix não chega nem perto do registrado em 2023. Essa diferença substancial pode ser resultado de diversos fatores, incluindo as expectativas dos investidores, condições menos favoráveis do mercado e mudanças nos preços de assinatura
+
+Link do conjunto de dados: https://www.kaggle.com/datasets/mayankanand2701/netflix-stock-price-dataset?select=Netflix+Dataset.csv
