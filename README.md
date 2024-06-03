@@ -111,13 +111,13 @@ max: O valor máximo para cada atributo.
 
 Um gráfico de candlestick é interessante porque fornece uma representação visual do preço das ações da Netflix ao longo do tempo. Ele é amplamente utilizado na análise técnica do mercado financeiro porque permite observar facilmente os padrões de preço, tendências e volatilidade de um ativo.
 
-![Captura de tela 2024-06-03 141545](https://github.com/VanderSC/analise-acoes-netflix/assets/95940138/b0f46b52-7166-4402-a063-b173a151afae)
+![Captura de tela 2024-06-03 152330](https://github.com/VanderSC/analise-acoes-netflix/assets/95940138/cfea6a8f-c3b8-4b80-80e7-876cf79cc412)
 
 Utilizando um gráfico de boxplot para comparar o fechamento das ações da Netflix nos anos de 2002 até 2024.
 
 O boxplot é uma ferramenta poderosa para visualizar a distribuição dos dados e identificar medidas resumidas, como mediana, quartis e possíveis outliers. Ao comparar o fechamento das ações em diferentes anos, os investidores podem entender como o preço se comportou ao longo do tempo e se houve mudanças significativas na distribuição.
 
-![image](https://github.com/VanderSC/analise-acoes-netflix/assets/95940138/8a2867d4-8dd9-4c26-bf98-57f0a79c1085)
+![image](https://github.com/VanderSC/analise-acoes-netflix/assets/95940138/8dbbc8eb-e2e2-440b-9ad6-6bb2dff0d095)
 
 A estabilidade nos anos anteriores a 2010 pode ser atribuída ao estágio inicial da empresa e à sua posição no mercado de streaming de vídeo, que ainda estava em desenvolvimento.
 
@@ -127,7 +127,7 @@ Durante os anos de 2020 e 2021 apesar da pandemia, é interessante. Durante esse
 
 O gráfico de volume de negociação de ações da Netflix fornece uma visão geral da atividade de compra e venda de ações da empresa ao longo dos anos.
 
-![image](https://github.com/VanderSC/analise-acoes-netflix/assets/95940138/7ebba40f-e753-4e9a-b1bd-dd2955bbd5bf)
+![image](https://github.com/VanderSC/analise-acoes-netflix/assets/95940138/92d89f7a-58e6-47fe-bc91-3af5dcb2616f)
 
 É interessante observar esses picos no volume de negociação das ações da Netflix nos anos de 2011 e 2012, podem ter sido impulsionados pelo aumento da popularidade da Netflix como plataforma de streaming de vídeo.
 
