@@ -1,3 +1,5 @@
+![image](https://github.com/VanderSC/analise-acoes-netflix/assets/95940138/415938ce-f30b-4cb6-af0a-0473d5c9c98d)
+
 Este conjunto de dados fornece um registro abrangente das mudanças de preço das ações da Netflix ao longo do tempo. Ele inclui colunas essenciais, como data, preço de abertura, maior preço do dia, menor preço do dia, preço de fechamento, preço de fechamento ajustado e volume de negociação.
 
 Fazer esse tipo de análises dos dados, pode proporcionar uma série de benefícios e insights importantes para investidores, analistas financeiros e gestores de portfólio, entre outros.
