@@ -111,6 +111,8 @@ max: O valor máximo para cada atributo.
 </table>
 </div>
 
+A grande diferença entre a média e a mediana, especialmente nos preços, indica uma distribuição assimétrica, provavelmente enviesada para a direita.
+
 Um gráfico de candlestick é interessante porque fornece uma representação visual do preço das ações da Netflix ao longo do tempo. Ele é amplamente utilizado na análise técnica do mercado financeiro porque permite observar facilmente os padrões de preço, tendências e volatilidade de um ativo.
 
 ![Captura de tela 2024-06-03 152330](https://github.com/VanderSC/analise-acoes-netflix/assets/95940138/cfea6a8f-c3b8-4b80-80e7-876cf79cc412)
